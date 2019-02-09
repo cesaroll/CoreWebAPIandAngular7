@@ -11,3 +11,4 @@ C:\Workspaces\CoreWebAPIandAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI
 C:\Workspaces\CoreWebAPIandAngular7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
 C:\Workspaces\CoreWebAPIandAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
 C:\Workspaces\CoreWebAPIandAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Workspaces\CoreWebAPIandAngular7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
