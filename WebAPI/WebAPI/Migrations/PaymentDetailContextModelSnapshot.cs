@@ -42,7 +42,7 @@ namespace WebAPI.Migrations
 
                     b.HasKey("PMId");
 
-                    b.ToTable("DbSet");
+                    b.ToTable("PaymentDetails");
                 });
 #pragma warning restore 612, 618
         }
