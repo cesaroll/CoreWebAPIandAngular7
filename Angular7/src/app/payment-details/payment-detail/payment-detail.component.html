@@ -1,4 +1,7 @@
-<form #form="ngForm" aria-autocomplete="off">
+<form #form="ngForm" aria-autocomplete="off" (submit)="onSubmit(form)">
+
+  <input type="hidden" name="PMId" [value]="service.PMId">
+
   <div class="form-group">
     <div class="input-group">
       <div class="input-group-prepend">
