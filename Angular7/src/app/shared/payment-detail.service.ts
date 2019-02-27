@@ -24,8 +24,6 @@ export class PaymentDetailService {
     return this.http.delete(this.rootURL + 'PaymentDetail/' + id);
   }
 
-  
-
   refreshList(){
     this.http.get(this.rootURL+'PaymentDetail')
     .toPromise()
