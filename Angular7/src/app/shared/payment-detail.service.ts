@@ -20,6 +20,10 @@ export class PaymentDetailService {
     return this.http.put(this.rootURL + 'PaymentDetail/' + this.formData.PMId, this.formData);
   }
 
+  deletePaymentDetail(id) {
+    return this.http.delete(this.rootURL + 'PaymentDetail/' + id);
+  }
+
   
 
   refreshList(){
